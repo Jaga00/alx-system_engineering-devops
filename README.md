@@ -1,2 +1,3 @@
-Current
-This is for the current working directory question
+#!/bin/bash
+echo "The absolute path name of the current working directory is:"
+pwd
